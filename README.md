@@ -1,4 +1,4 @@
-#### PHP Login & Signup System 🔐
+### PHP Login & Signup System 🔐
 
 A secure, responsive, and modern user authentication system built using **PHP** and **MySQL**. This project includes session management, password hashing, error handling, and responsive UI.
 
@@ -54,46 +54,29 @@ http://localhost/user_auth/Login-Signup-System/signup.html
 ```
 
 ---
+## Screenshot's 
 
-### Screenshots
-
-## Signup
+# Signup
 
 ![Image](https://github.com/user-attachments/assets/cd3415ca-0cd0-48a1-9df6-60fcdb460352)
 
---
-## Login
+# Login
 
 ![Image](https://github.com/user-attachments/assets/9cb2f902-eaf9-4170-843e-e80b7aea1c2e)
 
---
 
-## Dashboard
+# Dashboard
 
 ![Image](https://github.com/user-attachments/assets/b55a20b6-1f53-4799-8f2f-6cd847178e80)
 
---
 
-## Database
+# Database
 
 ![Image](https://github.com/user-attachments/assets/810b098d-8c5c-414b-8a88-4f5ba34f4897)
 
 
-![image](https://github.com/user-attachments/assets/d853b851-7cbd-421e-a5f3-9717a3d95ce1)
-
 ---
 
-
-
-
-
-
-
-
-
-
-
----
 
 # License
 
