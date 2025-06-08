@@ -26,3 +26,36 @@ A secure, responsive, and modern user authentication system built using **PHP** 
 ---
 
 
+## Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shivakasula48/Login-Signup-System-using-PHP-MySQL.git
+   ```
+
+2. Move the project folder to your `XAMPP` htdocs directory:
+   ```pgsql
+   C:\xampp\htdocs\user_auth\Login-Signup-System
+    ```
+
+3. Open phpMyAdmin and create a database:
+
+  * Database Name:` user_auth`
+
+  * Import `schema.sql` to set up the `users` table.
+
+4. Start XAMPP services (Apache and MySQL).
+
+5. Open the project in your browser:
+
+```bash
+http://localhost/user_auth/Login-Signup-System/signup.html
+```
+
+### Screenshots
+
+
+
+
+
+
+
