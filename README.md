@@ -1,5 +1,6 @@
 ### Task 2: Login & Signup System using PHP & MySQL 🔐
 
+
 *COMPANY*: Main Flow Services and Technologies Pvt. Ltd. 
 
 *NAME* : shiva kasula
@@ -11,7 +12,7 @@
 *DURATION* : 8WEEKS
 
 
-
+# Description 
 
 A secure, responsive, and modern user authentication system built using **PHP** and **MySQL**. This project includes session management, password hashing, error handling, and responsive UI.
 
