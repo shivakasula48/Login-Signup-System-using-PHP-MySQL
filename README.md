@@ -1,4 +1,17 @@
-### PHP Login & Signup System 🔐
+### Task 2: Login & Signup System using PHP & MySQL 🔐
+
+*COMPANY*: Main Flow Services and Technologies Pvt. Ltd. 
+
+*NAME* : shiva kasula
+
+*INTERN ID* : 17203
+
+*DOMAIN* : Full Stack Web Development
+
+*DURATION* : 8WEEKS
+
+
+
 
 A secure, responsive, and modern user authentication system built using **PHP** and **MySQL**. This project includes session management, password hashing, error handling, and responsive UI.
 
